@@ -6,7 +6,7 @@ In particular, we find that existing evaluation metrics disagree wildly for high
 If you reuse this software, please use the following citation:
 
 ```
-@inproceedings{TUD-CS-2017-0074,
+@inproceedings{acl-2019-compare-metrics,
     title = {{Studying Summarization Evaluation Metrics in the Appropriate Scoring Range}},
     author = {Peyrard, Maxime},
     publisher = {Association for Computational Linguistics},
